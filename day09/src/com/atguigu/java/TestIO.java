@@ -23,5 +23,6 @@ public class TestIO {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("push code to github");
+        System.out.println("pull code to local");
     }
 }
