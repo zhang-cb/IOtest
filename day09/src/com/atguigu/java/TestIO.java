@@ -18,5 +18,6 @@ public class TestIO {
         System.out.println(file1.getAbsolutePath());
 
         System.out.println("git-study-second-commit");
+        System.out.println("git-study-third-commit");
     }
 }
