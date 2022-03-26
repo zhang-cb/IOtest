@@ -20,5 +20,6 @@ public class TestIO {
         System.out.println("git-study-second-commit");
         System.out.println("git-study-third-commit");
         System.out.println("git-study-hot-fix");
+        System.out.println("hot-fix test");
     }
 }
