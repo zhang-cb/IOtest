@@ -22,5 +22,6 @@ public class TestIO {
         System.out.println("git-study-hot-fix");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push code to github");
     }
 }
