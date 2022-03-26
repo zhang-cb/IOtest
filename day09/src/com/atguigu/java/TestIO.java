@@ -17,5 +17,6 @@ public class TestIO {
         File file1 = new File("day09\\hello.txt");
         System.out.println(file1.getAbsolutePath());
 
+        System.out.println("git-study-second-commit");
     }
 }
